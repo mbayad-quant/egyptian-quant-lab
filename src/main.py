@@ -1,0 +1,1 @@
+print("Egyptian Quant Lab")
